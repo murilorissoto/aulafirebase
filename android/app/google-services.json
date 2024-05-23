@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535527262851",
+    "project_id": "prjmurilopersistencia",
+    "storage_bucket": "prjmurilopersistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535527262851:android:fa69d83d6fb602de3469b6",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFQ5I_dGDNqyScv8qcPx8-D2WbO07AOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
